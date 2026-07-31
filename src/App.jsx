@@ -40,8 +40,9 @@ let arrayproduct=[
    name:"Bad Milk",
    image:"logoimg.png",
    price:"Price  Rs: 900",
-   discount:"Disc: -30",
+   discount:"Disc: -95",
    new:"Buy Now"
+
   }
 ]
 
